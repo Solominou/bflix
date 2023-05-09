@@ -1,61 +1,5 @@
 [
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/bflix",
-        "fileSize": 17046,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 2,
-        "internalName": "AnimeflvIOProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/AnimeflvIOProvider.cs3",
-        "name": "AnimeflvIOProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/bflix",
-        "fileSize": 16908,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 4,
-        "internalName": "AnimeflvProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/AnimeflvProvider.cs3",
-        "name": "AnimeflvProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animension.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/bflix",
-        "fileSize": 15343,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "AnimensionProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/AnimensionProvider.cs3",
-        "name": "AnimensionProvider"
-    },
+    
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
         "apiVersion": 1,
@@ -296,26 +240,7 @@
         "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/MundoDonghuaProvider.cs3",
         "name": "MundoDonghuaProvider"
     },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Nain.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/bflix",
-        "fileSize": 34440,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Stormunblessed"
-        ],
-        "tvTypes": [
-            "Anime",
-            "OVA"
-        ],
-        "version": 20,
-        "internalName": "NineAnimeProvider",
-        "description": "Watch 9anime with the help of the Consumet API.",
-        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/NineAnimeProvider.cs3",
-        "name": "NineAnimeProvider"
-    },
+    
     {
         "iconUrl": "https://peliculasflix.co/img/logo.png",
         "apiVersion": 1,
